@@ -1,0 +1,38 @@
+
+.button{
+    font-family: Avenir LT Std;
+    border: none;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 100;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+h2{
+    color: #41276D;
+    text-align: center;
+    clear: both;
+   
+}
+.navbar-brand{
+
+
+    margin-right: 5px;
+}
+.nav-link dropdown-toggle{
+    
+	
+    box-shadow: 2px;
+    background: 	linear-gradient(to bottom right, rgba(244, 244, 244, 0.932), rgba(249, 246, 246, 0.936));
+}
+
+.logo {
+	width:	80px;
+	height:	80px;
+    margin-left: 20px;
+    margin-bottom: 9px;
+	float:	left;
+
+}
